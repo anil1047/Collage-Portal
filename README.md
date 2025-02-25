@@ -23,9 +23,6 @@ Once we start the project, a menu opens showing us various options including Mod
 
 * **Anil Bijarniya** - *Initial work* - [Project](https://github.com/anil1047)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
