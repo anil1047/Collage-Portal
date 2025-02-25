@@ -24,9 +24,5 @@ Once we start the project, a menu opens showing us various options including Mod
 * **Anil Bijarniya** - *Initial work* - [Project](https://github.com/anil1047)
 
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
